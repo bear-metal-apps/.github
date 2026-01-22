@@ -11,6 +11,6 @@ This org is home to the apps and tools we build for our team, including:
 
 Bear Metal is a high school robotics team based in Maple Valley, WA, competing in the First Robotics Competition. Our subteam, Apps, focuses on creating software to support strategy, scouting, and team operations.
 
-## Contributing
+---
 
-Most of our projects are developed by us, for us, but we plan on expanding to other teams to use and contribute to in the future. Stay tuned!
+If you're looking for our robot code, [check here](https://github.com/bear-metal-2046)
